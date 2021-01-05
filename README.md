@@ -15,6 +15,7 @@
 A project where I had to analyse a codebase and then write a report on the functions of the code then create a step by step guide on how to use the application.
 ## Installation
 Please refer to the google document attached for detailed instruction of installation of this application . 
+https://docs.google.com/document/d/1sV1kG9kdzgE451Sy4uTN8IKOSvxnU8sNLCBxq9WZQb8/edit?usp=sharing
 ## Usage
 This application is used to create a username and password which is stored onto a SQL database the user can then use these credentials to log into the website.
 ## License
